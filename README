@@ -1,0 +1,8 @@
+Application still working February 2012
+
+Connect to your HSBC France bank account via PHP!
+
+I used this code a long time ago to create an Android/iPhone application to connect users to their HSBC Bank account. But HSBC is about to release their own application (April 2012) so they asked me to remove mine. So I'm open sourcing the code.
+
+The example.php should provide you with all the needed information.
+I'm terribly sorry about the dirtyness of the code, I wrote it a long time ago (when I didn't care), and I currently don't have an hour to spend cleaning it. I do hope you still enjoy it!
