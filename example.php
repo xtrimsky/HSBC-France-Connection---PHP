@@ -27,7 +27,7 @@
                     (
                         [0] => Array
                             (
-                                [name] => M. ANDREI PERVYCHINE
+                                [name] => M. ANDREI DUPONT
                                 [balance] => 131,54 
                                 [currency] => EUR
                             )
