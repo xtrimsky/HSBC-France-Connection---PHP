@@ -1,5 +1,5 @@
-This is some old code, it doesn't work anymore as HSBC now requires a 2 steps auth (which I hate btw, haven't checked my HSBC bank in about 6 months).
-Anyways I'm leaving it here in case it helps someone.
+This is some old code, it doesn't work anymore as HSBC now requires a 2 steps auth.
+I'm leaving it here in case it helps someone.
 
 Connect to your HSBC France bank account via PHP!
 
